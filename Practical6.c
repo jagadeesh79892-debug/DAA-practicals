@@ -23,7 +23,6 @@ int main()
         dp[i][i] = 0;
     }
 
-    /* Find minimum cost */
     for(length = 2; length <= n; length++)
     {
         for(i = 1; i <= n - length + 1; i++)
