@@ -1,0 +1,2 @@
+Conclusion
+The Travelling Salesman Problem finds the shortest possible route that visits every city exactly once and returns to the starting city. The program checks all possible routes and selects the minimum-cost route.
